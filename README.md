@@ -35,8 +35,8 @@ Welcome! This repository contains a collection of Python projects developed for 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name>
+    git clone [<your-repository-url>](https://github.com/Ashay1504/iRobot-Create3-Python-Projects.git)
+    cd iRobot-Create3-Python-Projects
     ```
 
 2.  **Install the iRobot EDU SDK:**
