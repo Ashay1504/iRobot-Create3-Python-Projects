@@ -23,9 +23,6 @@ Welcome! This repository contains a collection of Python projects developed for 
     *   An ambitious project for a robot to autonomously navigate and solve a predefined grid-based maze.
     *   It uses a dictionary to represent the maze, updates cell costs using a Flood Fill like algorithm, and makes decisions based on sensor readings (IR for walls) and the current maze knowledge.
     *   `AuxMazeSolver.py` contains crucial helper functions for maze representation, neighbor finding, orientation, and cost updates.
-*   **Utility/Test Scripts:**
-    *   `a.py`: Appears to be an empty file.
-    *   `b.py`: Contains a standalone Python function `doThings` and a call to it, unrelated to the robot projects.
 
 ## Prerequisites:
 
@@ -91,6 +88,5 @@ Feel free to fork this repository, make improvements, or add new projects! Pull 
 
 ## License:
 
-(Choose a license, e.g., MIT, Apache 2.0, or leave it unlicensed if you prefer)
-Example:
-This project is licensed under the MIT License - see the LICENSE.md file for details (if you add one).
+This project is open-source and available under the [MIT License](LICENSE).
+
